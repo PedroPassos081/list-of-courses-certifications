@@ -13,7 +13,7 @@ This repository is dedicated to documenting my academic journey, certifications,
 
 - `Postgraduate Specialization in Full Stack Development` - FIAP - Centro Universitário _(Brazil) [website](https://www.fiap.com.br/)._ March/2025-February/2026 (360 hours). :paperclip: [here](certificates/fiap-postgraduate-full-stack-development.pdf)
 
-- `Technology Degree in Systems Analysis and Development` - Centro Universitário dos Guararapes (UNIFG) _(Brazil) [website](https://www.unifg.edu.br/)._ Completed in July/2024. :paperclip: [here](certificates/unifg-systems-analysis-development.pdf)
+- `Technology Degree in Systems Analysis and Development` - Centro Universitário dos Guararapes (UNIFG) _(Brazil) [website](https://www.unifg.edu.br/)._ Completed in July/2024 (2.5 years, 2,030 hours). :paperclip: [here](certificates/unifg-systems-analysis-development.pdf)
 
 ## Courses
 
